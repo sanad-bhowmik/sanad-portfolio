@@ -347,7 +347,6 @@ header .navbar a:hover{
     padding:1rem 2rem;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
     border-radius: .5rem;
-    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/disp/e2a03d31641415.565a78be188d4.gif");
     background-position-x: center;
     background-position: 10%;   
 }
